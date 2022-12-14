@@ -2,13 +2,13 @@
 # Vyacheslav Ryshkov
 **Contacts:**     
 Discord - SlaVR (@SlaVR7)       
-Telegram - https://t.me/skill_hunter 
+Telegram - https://t.me/skill_hunter    
 ***
-*Someday I will become a great developer :-)*
+*Someday I will become a great developer :-)*   
 ***
-I know how to use **HTML, CSS, JavaScript**
+I know how to use **HTML, CSS, JavaScript**   
 ***
-**Sample of my coding:**
+**Sample of my coding:**   
     
 ``` 
 function multiply (a, b) {
@@ -18,9 +18,9 @@ return a * b
 ***
 **My own project:**   
 The webste with movies - http://kinooskars.ru    
-GitHub - https://github.com/SlaVR7/kinooskars.ru
-***
+GitHub - https://github.com/SlaVR7/kinooskars.ru   
+***   
 **Education:**    
-Now I study at Rolling Scope School
-***
+Now I study at Rolling Scope School   
+***   
 My english level is pre-intermediate
