@@ -20,3 +20,7 @@ return a * b
 The webste with movies - http://kinooskars.ru    
 GitHub - https://github.com/SlaVR7/kinooskars.ru
 ***
+**Education:**    
+Now I study at Rolling Scope School
+***
+My english level is pre-intermediate
