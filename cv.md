@@ -8,3 +8,15 @@ Telegram - https://t.me/skill_hunter
 ***
 I know how to use **HTML, CSS, JavaScript**
 ***
+**Sample of my coding:**
+    
+``` 
+function multiply (a, b) {
+return a * b
+}
+```
+***
+**My own project:**   
+The webste with movies - http://kinooskars.ru    
+GitHub - https://github.com/SlaVR7/kinooskars.ru
+***
