@@ -4,3 +4,7 @@
 Discord - SlaVR (@SlaVR7)       
 Telegram - https://t.me/skill_hunter 
 ***
+*Someday I will become a great developer :-)*
+***
+I know how to use **HTML, CSS, JavaScript**
+***
