@@ -1,0 +1,212 @@
+body {
+    margin: 0;
+    background-color: #FFFFE0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    display: inline-block;
+    transform: scale(0.9);
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+li {
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.info-container {
+    display: flex;
+}
+
+.header__list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    font-size: 24px;
+    color: #327ef0;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 4em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: white;
+}
+
+.name__description {
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+}
+
+hr {
+    height: 1px;
+	border: none;
+	border-top: 2px solid yellow;
+}
+
+.name__hr {
+    border-top: 4px solid yellow;
+}
+
+.main__background {
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    height: 480px;
+    background: linear-gradient(45deg, #262626, transparent);
+    background-color: grey;
+    box-shadow: 0px 0px 4px 1px rgb(41 41 41);
+    z-index: -1;
+}
+
+.main__container {
+    display: flex;
+}
+
+aside {
+    flex-shrink: 0;
+    margin-right: 50px;
+    padding-top: 60px;
+    width: 360px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #327ef0, transparent);
+    background-color: rgba(127, 199, 255, 1);
+}
+
+.avatar {
+    width: 100%;
+}
+
+.contacts {
+    margin-left: 20px;
+}
+
+.contacts__list {
+    font-size: 18px;
+    list-style: square;
+    color: black;
+}
+
+.info {
+    width: 75%;
+}
+
+.skills {
+    list-style: square;
+    font-size: 18px;
+}
+
+pre {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.container__description {
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-project {
+    font-size: 18px;
+    line-height: 1.5;
+    color: black;
+}
+
+.my-projects__item {
+    font-weight: bold;
+}
+
+.my-projects__item-link {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.description {
+    font-weight: normal;
+    font-size: 18px;
+    color: black;
+}
+
+.footer-hr {
+    border-color: black;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.year {
+    font-size: 18px;
+}
+
+.rs-logo {
+    display: block;
+    width: 100px;
+}
+
+.my-git {
+    display: block;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+@media (max-width: 1307px) {
+
+    .header__list {
+        font-size: 18px;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    h2 {
+        margin: 10px auto;
+    }
+
+    h2:nth-child(-n+3) {
+        font-size: 24px;
+    }
+
+    aside {
+        margin-right: 30px;
+    }
+
+    .skills {
+        margin-bottom: 80px;
+    }
+}
